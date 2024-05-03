@@ -1,0 +1,12 @@
+{
+    "data_root_dir" : "CrackForest",
+    "data_img_dir" : "Images",
+    "data_mask_dir" : "Masks",
+    "exp_dir" : "CFExp1",
+    "num_classes" : 2,
+    "sample_input_image" : "./CrackForest/Images/002.jpg",
+    "sample_input_mask" : "./CrackForest/Masks/002_label.PNG",
+    "test_image" : "",
+    "model_save_path": "CFExp1/weights.pt",
+    "output_save_path": ""
+}
