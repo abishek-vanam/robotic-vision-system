@@ -1,0 +1,12 @@
+{
+    "data_root_dir" : "data/PennFudanPed",
+    "data_img_dir" : "PNGImages",
+    "data_mask_dir" : "PedMasks",
+    "exp_dir" : "",
+    "num_classes" : 2,
+    "sample_input_image" : "data/PennFudanPed/PNGImages/FudanPed00040.png",
+    "sample_input_mask" : "data/PennFudanPed/PedMasks/FudanPed00040_mask.png",
+    "test_image" : "data/PennFudanPed/PNGImages/FudanPed00040.png",
+    "model_save_path": "./outputs/model.pth",
+    "output_save_path": "./outputs/output_img1.png"
+}
